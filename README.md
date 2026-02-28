@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Patricia Lopes  
 
-<!--
-**patricialopes-dev/patricialopes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Sistemas de Informação (Multivix)**  
+💻 **Foco em Desenvolvimento Backend**  
+☕ Atualmente estudando **Java**  
+📚 Aprimorando **lógica de programação** e **estrutura de dados**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Objetivo  
+Construir minha carreira na área de **tecnologia**, através de **projetos práticos**, **aprendizado constante** e **colaboração**.
+
+---
+
+## 🧠 Tecnologias em aprendizado  
+☕ **Java**  
+🧰 **Git e GitHub**  
+🗄️ Conceitos de **Banco de Dados**  
+💾 **Lógica de Programação**  
+
+---
+
+## 📫 Onde me encontrar  
+📧 **Email:** pl1713621@gmail.com  
+💼 **[LinkedIn](https://www.linkedin.com/in/patricialopes-dev)**  
+🐙 **[GitHub](https://github.com/patricialopes-dev)**  
+
+---
+
+⭐ *“A prática leva à evolução — e cada linha de código é um passo a mais.”*
